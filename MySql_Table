@@ -1,0 +1,605 @@
+TableName: WarWords	
+FieldName: Word -- Type: varchar Length: 63 character (but I only used 26)
+FieldName: Sort -- Type: int
+
+comma separated data:
+act of war,3
+aim,1
+allies,1
+ambush,1
+ammunition,1
+annihilate,1
+ar-15,1
+armament,1
+armed forces,2
+armory,1
+arms,1
+arsenal,1
+artillery,1
+assassin,1
+assassinate,1
+assault,1
+attrition,1
+ballistic,1
+barrage,1
+barricade,1
+battalion,1
+batter,1
+battle,1
+battlefield,1
+battleground,1
+bayonet,1
+beseiged,1
+bite the bullet,3
+bite the cartridge,3
+blast,1
+blindside,1
+blockade,1
+bloodletting,1
+bloody,1
+blow up,2
+bomb,1
+bombard,1
+bombardment,1
+bombshell,1
+boobytrap,1
+breach,1
+break,1
+brigade,1
+brute,1
+bullet,1
+bulletproof,1
+bully,1
+bunker,1
+camouflage,1
+cannon,1
+captive,1
+capture,1
+carbine,1
+careen,1
+carnage,1
+casualties,1
+casualty,1
+cataclysm,1
+catch-22,1
+ceasefire,1
+charge,1
+charred,1
+checkpoint,1
+chief,1
+chip on her shoulder,4
+chip on his shoulder,4
+chip on their shoulder,4
+chip on your shoulder,4
+chopper,1
+christian soldier,2
+civilian,1
+clandestine,1
+clash,1
+coalition,1
+collapse,1
+combat,1
+command,1
+commander,1
+commando,1
+compassion,1
+compliance,1
+concussion,1
+conflagration,1
+conflict,1
+confrontation,1
+confrontational,1
+confusion,1
+conquer,1
+conscript,1
+conscription,1
+consequence,1
+conspiracy,1
+conspire,1
+control,1
+convoy,1
+corps,1
+corpse,1
+counterattack,1
+countermand,1
+counteroffensive,1
+crash,1
+crossfire,1
+cross-hair,1
+crusade,1
+culpability,1
+customs war,2
+deadly,1
+death,1
+debacle,1
+deception,1
+defect,1
+defend,1
+defense,1
+defensive,1
+demolish,1
+demoralization,1
+demoralize,1
+deploy,1
+desertion,1
+destroy,1
+destruction,1
+detect,1
+detection,1
+detente,1
+devastation,1
+dictator,1
+dictatorship,1
+die,1
+disarmament,1
+disarray,1
+disaster,1
+disastrous,1
+discipline,1
+dismantle,1
+dispatch,1
+disperse,1
+dissonance,1
+dominate,1
+domination,1
+doom,1
+doomed,1
+downfall,1
+dread,1
+drone,1
+dud,1
+duty,1
+elite,1
+encounter,1
+enemy,1
+enforce,1
+enforcement,1
+engagement,1
+enlist,1
+epithet,1
+escalate,1
+escalation,1
+espionage,1
+execute,1
+execution,1
+explode,1
+exploitation,1
+explosion,1
+explosive,1
+expunge,1
+extremism,1
+faction,1
+fanatic,1
+fatal,1
+fend,1
+fend off,2
+ferment,1
+ferocious,1
+feud,1
+field of bullets,3
+fiery,1
+fight,1
+fighter,1
+firestorm,1
+flank,1
+flee,1
+flight,1
+fog of war,3
+force,1
+forceful,1
+fortification,1
+fought,1
+fought off,2
+foxhole,1
+fray,1
+frenzy,1
+fright,1
+front line,2
+frontline,1
+fuel,1
+fugitive,1
+furtive,1
+fusillade,1
+gang,1
+gangupon,1
+garrison,1
+gas,1
+generator,1
+genocide,1
+germwarfare,1
+global war on,3
+global war on terror,4
+gore,1
+grave,1
+grenade,1
+grievous,1
+groans,1
+ground zero,2
+guard,1
+guerrilla,1
+guidedbomb,1
+gun,1
+gunship,1
+hair trigger,1
+hair-trigger,1
+hammering,1
+harass,1
+harsh,1
+hatch,1
+hate,1
+hatred,1
+hazard,1
+helicopter,1
+hero,1
+heroic,1
+heroism,1
+high caliber,2
+high-caliber,1
+hijack,1
+hijacker,1
+hit,1
+hit-and-run,1
+holocaust,1
+horror,1
+horses,1
+hospitalize,1
+hostile,1
+hostility,1
+howitzer,1
+hurt,1
+ignite,1
+impact,1
+improvise,1
+incite,1
+incontrovertible,1
+infanticide,1
+infantry,1
+inferred,1
+infiltrate,1
+inflame,1
+informant,1
+insurgent,1
+insurrection,1
+intelligence,1
+intercept,1
+interdiction,1
+interrogation,1
+intervene,1
+intimidate,1
+invasion,1
+ire,1
+jeer,1
+jet,1
+join the ranks,3
+just war,2
+kamikaze,1
+keen,1
+keening,1
+kidnap,1
+kill,1
+killing,1
+knife,1
+knives,1
+knock-out,1
+lamentation,1
+landmine,1
+laser,1
+laser-activated,1
+launch,1
+launcher,1
+liaison,1
+liberate,1
+liberation,1
+liberator,1
+long shot,2
+loyal,1
+loyalty,1
+macabre,1
+machinegun,1
+maim,1
+malevolent,1
+malicious,1
+maraud,1
+marauding,1
+march,1
+massacre,1
+mayhem,1
+megalomania,1
+menace,1
+menacing,1
+militancy,1
+militant,1
+militaristic,1
+military,1
+militia,1
+mines,1
+missile,1
+missile address,2
+mission,1
+mob,1
+mobilization,1
+momentum,1
+mortar,1
+munition,1
+murder,1
+muscle,1
+musket,1
+mustard gas,2
+nationalist,1
+neutralize,1
+nightmare,1
+nitrate,1
+no-man's land,1
+notorious,1
+no-win situation,1
+obliterate,1
+offensive,1
+officer,1
+onerous,1
+operation,1
+opposition,1
+order,1
+out of control,3
+outbreak,1
+overrun,1
+overthrow,1
+pacify,1
+paramedics,1
+partisan,1
+patriot,1
+patriotism,1
+patrol,1
+peacekeeping,1
+penetrate,1
+penetration,1
+persecute,1
+petrify,1
+pistol,1
+plane,1
+platoon,1
+plunder,1
+poison pill,2
+position,1
+post-traumatic,1
+potent,1
+pound,1
+powder,1
+powder keg,2
+power,1
+powerful,1
+preemptive,1
+premeditate,1
+premeditated,1
+prey,1
+prison,1
+prisoner,1
+proliferation,1
+provocation,1
+prowl,1
+ptsd,1
+pugnacious,1
+pulverize,1
+pushing,1
+pyrrhic victory,2
+quarrel,1
+queasy,1
+quell,1
+quest,1
+quiver,1
+radiation,1
+radical,1
+rage,1
+rally,1
+ravage,1
+ravish,1
+readiness,1
+rebel,1
+rebellion,1
+reconnaissance,1
+recovery,1
+recruit,1
+recruitment,1
+red cross,1
+regime,1
+regiment,1
+reinforcements,1
+relentless,1
+reparation,1
+reprisal,1
+reputation,1
+rescue,1
+resistance,1
+retaliation,1
+retreat,1
+retribution,1
+revenge,1
+revolution,1
+ricochet,1
+rifle,1
+rift,1
+right on target,3
+riot,1
+rival,1
+rocket,1
+rot,1
+round,1
+ruthless,1
+ruthlessness,1
+saber,1
+saber noise,2
+saber rattling,2
+sabotage,1
+sacrifice,1
+salvage,1
+salvo,1
+sanction,1
+savage,1
+scare,1
+score,1
+scramble,1
+secrecy,1
+sedition,1
+seize,1
+seizure,1
+sensor,1
+setback,1
+shareholder rights plan,3
+sharpshooter,1
+shell,1
+shelling,1
+shock,1
+shock and awe,3
+shoot,1
+shoot the messenger,3
+shooter,1
+shooting the messenger,3
+shot,1
+showdown,1
+siege,1
+skirmish,1
+slaughter,1
+smash,1
+smoking gun,2
+smuggle,1
+soldier,1
+specialized,1
+special-op,1
+spokesman,1
+spotter,1
+spy,1
+spy satellite,2
+squad,1
+stalk,1
+stash,1
+stealth,1
+stock and barrel,3
+storm,1
+storm the castle,3
+straggler,1
+straight shooter,2
+straight-shooter,1
+strangle,1
+strategic,1
+strategist,1
+strategy,1
+strength,1
+strife,1
+strike,1
+strip,1
+stronghold,1
+struggle,1
+submarine,1
+subversive,1
+suffering,1
+superstition,1
+supplies,1
+supply,1
+support,1
+suppression,1
+surprise,1
+surrender,1
+survival,1
+survivor,1
+suspect,1
+sword,1
+tactic,1
+take by storm,3
+tank,1
+tension,1
+terrain,1
+terror,1
+terrorism,1
+terrorist,1
+terrorize,1
+texas sharpshooter fallacy,3
+the bomb,2
+threaten,1
+thug,1
+thwart,1
+time bomb,2
+topple,1
+torch,1
+tornado,1
+torpedo,1
+tourniquet,1
+training,1
+trample,1
+trampling,1
+transportation,1
+trap,1
+trauma,1
+treachery,1
+trench,1
+trigger,1
+triumph,1
+troops,1
+truce,1
+tsunami,1
+tug o' war,3
+tug of war,3
+turbulent,1
+unbelievable,1
+unconventional,1
+under fire,2
+uniform,1
+unify,1
+unit,1
+unite,1
+unleash,1
+unruly,1
+uprising,1
+urgency,1
+vagrant,1
+valiant,1
+valor,1
+vanguard,1
+vanish,1
+vanquish,1
+vehicle,1
+vehicular,1
+vendetta,1
+venomous,1
+versatile,1
+veteran,1
+vicious,1
+victory,1
+vile,1
+vilify,1
+violation,1
+violence,1
+virulence,1
+visionary,1
+vital,1
+vitriol,1
+vociferous,1
+void,1
+vow,1
+vulnerability,1
+wage,1
+war,1
+war chest,2
+war on,2
+war zone,2
+warhead,1
+warplane,1
+warrant,1
+warrior,1
+watchdog,1
+watchful,1
+weapon,1
+well-trained,1
+whiz,1
+wince,1
+win-win game,2
+wisdom,1
+worldwide,1
+wound,1
+wreckage,1
+x-ray,1
+yearn,1
+yelling,1
+zeal,1
+zealot,1
+zeppelin,1
+zigzag,1
+zone,1
